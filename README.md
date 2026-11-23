@@ -1,5 +1,4 @@
 Tapşırıqları dərsdə keçdiyimiz design pattern-lərdən istifadə edərək həll edin.
-
 ## Mündəricat
 
 | # | Tapşırıq | Kod |
